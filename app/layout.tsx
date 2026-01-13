@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "🎰 言い訳ルーレット",
+  title: "言い訳ルーレット",
   description: "ルーレットを回して言い訳を生成！AIが切れ味のあるツッコミを入れてくれます。",
   icons: {
     icon: [
