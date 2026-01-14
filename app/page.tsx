@@ -568,7 +568,7 @@ export default function Home() {
             >
               ZEROVENTURE - Web制作
             </a>
-            <p className="text-xs text-gray-500 mt-2">ホームページ・LP・Webアプリ開発のご相談承ります</p>
+            <p className="text-xs text-gray-500 mt-2">ホームページ・LPのご相談承ります</p>
           </div>
         </div>
 
